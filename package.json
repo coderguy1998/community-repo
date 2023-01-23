@@ -1,0 +1,17 @@
+{
+  "name": "1inch-community",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@1inch/limit-order-protocol-utils": "^3.0.1",
+    "@1inch/permit-signed-approvals-utils": "^1.4.8",
+    "bignumber.js": "^9.1.1",
+    "web3": "^1.8.1"
+  }
+}
